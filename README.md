@@ -10,13 +10,12 @@ An interactive dashboard built using Tableau Public to analyze an e-commerce dat
 - 🔥 **Product vs Country Heatmap**
 
 ## 📁 Files Included
-- `Ecommerce_Dashboard.twbx` – Tableau workbook
-- `screenshot.png` – Dashboard preview
-- *(Optional)* `data_cleaned.xlsx` – Cleaned data used
+- `E-commerce dashboard.twbx` – Tableau workbook
+- `Dashboard Screenshot.png` – Dashboard preview
+- dataset.xlsx` – Cleaned data used
 
 ## 🔗 Live Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/...) ← *(replace with your real link)*
-
+https://public.tableau.com/app/profile/dev.gulati5797/viz/Book1_17503173007640/Dashboard1
 ## 🛠 Tools Used
 - Tableau Public
 - Excel (for preprocessing)
